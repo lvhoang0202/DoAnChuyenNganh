@@ -1,2 +1,3 @@
 C:\Users\Le Hoang\Desktop\DACN\DoAnChuyenNganh\DoAnChuyenNganh\bin\Debug\DoAnChuyenNganh.exe.config
 C:\Users\Le Hoang\Desktop\DoAnChuyenNganh\DoAnChuyenNganh\bin\Debug\DoAnChuyenNganh.exe.config
+C:\Users\khacv\OneDrive\Documents\GitHub\DoAnChuyenNganh\DoAnChuyenNganh\bin\Debug\DoAnChuyenNganh.exe.config
